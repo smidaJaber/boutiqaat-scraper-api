@@ -11,8 +11,8 @@
 > | Marketplace | Official Scraper Client | Market Focus |
 > |---|---|---|
 > | **Boutiqaat** | **This API Client (`boutiqaat-scraper`)** | Kuwait & celebrity beauty exclusives (`boutiqaat.com`) |
-> | **NiceOne Saudi Arabia** | [NiceOne Scraper API](https://github.com/your-username/niceone-scraper-api) | KSA beauty unicorn (`niceonesa.com`) |
-> | **GoldenScent** | [GoldenScent Scraper API](https://github.com/your-username/goldenscent-scraper-api) | Gulf designer & Arabian oud (`goldenscent.com`) |
+> | **NiceOne Saudi Arabia** | [NiceOne Scraper API](https://github.com/smidaJaber/niceone-scraper-api) | KSA beauty unicorn (`niceonesa.com`) |
+> | **GoldenScent** | [GoldenScent Scraper API](https://github.com/smidaJaber/goldenscent-scraper-api) | Gulf designer & Arabian oud (`goldenscent.com`) |
 
 ---
 
